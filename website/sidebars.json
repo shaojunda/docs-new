@@ -41,7 +41,11 @@
       "labs/capsule-dynamic-loading-tutorial",
       "labs/polyjuice"
     ],
-    "Integrate": ["integrate/introduction", "integrate/qa", "integrate/sdk"],
+    "Integrate": [
+      "integrate/introduction", 
+      "integrate/qa", 
+      "integrate/sdk"
+    ],
     "Essays": [
       "essays/introduction",
       "essays/rfcs",
@@ -50,7 +54,11 @@
       "essays/rules",
       "essays/dependencies",
       "essays/introduction-to-ckb-studio",
+<<<<<<< HEAD
       "essays/mint-sudt-via-contract"
+=======
+      "essays/faq"
+>>>>>>> docs: update faq
     ]
   }
 }
