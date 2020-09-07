@@ -20,7 +20,11 @@
           "basics/guides/devchain",
           "basics/guides/mainnet",
           "basics/guides/testnet",
-          "basics/guides/neuron"
+          "basics/guides/neuron",
+          "basics/guides/run-ckb-with-docker",
+          "basics/guides/get-ckb",
+          "basics/guides/ckb-on-windows"
+
         ]
       },
       "basics/tools",
@@ -55,10 +59,16 @@
       "essays/dependencies",
       "essays/introduction-to-ckb-studio",
 <<<<<<< HEAD
+<<<<<<< HEAD
       "essays/mint-sudt-via-contract"
 =======
       "essays/faq"
 >>>>>>> docs: update faq
+=======
+      "essays/faq",
+      "essays/ckb-core-dev",
+      "essays/integrity-check"
+>>>>>>> docs: update ckb guides
     ]
   }
 }
