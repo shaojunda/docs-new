@@ -42,12 +42,11 @@
       "labs/introduction",
       "labs/sudtbycapsule",
       "labs/lumos-nervosdao",
-      "labs/capsule-dynamic-loading-tutorial",
-      "labs/polyjuice"
+      "labs/capsule-dynamic-loading-tutorial"
     ],
     "Integrate": [
-      "integrate/introduction", 
-      "integrate/qa", 
+      "integrate/introduction",
+      "integrate/qa",
       "integrate/sdk"
     ],
     "Essays": [
@@ -58,17 +57,11 @@
       "essays/rules",
       "essays/dependencies",
       "essays/introduction-to-ckb-studio",
-<<<<<<< HEAD
-<<<<<<< HEAD
-      "essays/mint-sudt-via-contract"
-=======
-      "essays/faq"
->>>>>>> docs: update faq
-=======
+      "essays/polyjuice",
       "essays/faq",
       "essays/ckb-core-dev",
-      "essays/integrity-check"
->>>>>>> docs: update ckb guides
+      "essays/integrity-check",
+      "essays/mint-sudt-via-contract"
     ]
   }
 }
